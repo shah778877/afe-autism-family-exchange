@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790092166232,
+      "tag": "0000_lovely_squadron_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790096051717,
+      "tag": "0001_chubby_baron_strucker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790097366083,
+      "tag": "0002_chunky_professor_monster",
+      "breakpoints": true
+    }
+  ]
+}
