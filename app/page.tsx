@@ -63,7 +63,7 @@ export default function HomePage() {
 
       <section id="top" className="mx-auto max-w-7xl px-5 pb-12 pt-8 lg:px-8 lg:pb-20 lg:pt-12">
         <div className="relative overflow-hidden rounded-[2rem] bg-[#123f3b] shadow-[0_30px_80px_rgba(18,63,59,0.18)]">
-          <Image src="/family-sensory-hero.png" alt="A parent and child calmly exploring sensory toys together" width={1944} height={809} priority className="absolute inset-0 h-full w-full object-cover object-center opacity-95" />
+          <Image src="/family-sensory-hero.webp" alt="A parent and child calmly exploring sensory toys together" width={1942} height={809} priority className="absolute inset-0 h-full w-full object-cover object-center opacity-95" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#123f3b] via-[#123f3b]/95 to-[#123f3b]/5" />
           <div className="relative max-w-2xl px-7 py-14 text-white sm:px-12 sm:py-20 lg:px-16 lg:py-24">
             <span className="mb-5 inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-3 py-1.5 text-sm font-semibold backdrop-blur"><ShieldCheck className="size-4" /> AFE private preview · Adults 18+ only</span>
